@@ -1,1 +1,1 @@
-Files relating to the work I did during my 2017 NSERC USRA. This work has been submitted to INFOR for publication.
+Files relating to the work I did during my 2017 NSERC USRA. This work has been submitted to INFOR for publication, and once possible I will upload the manuscript. There are many other code files and datasets pertaining to this work, but at the moment I have not formatted them sufficiently to be publically posted.
