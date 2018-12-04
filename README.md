@@ -1,1 +1,2 @@
 Files relating to the work I did during my 2017 NSERC USRA. This work has been submitted to INFOR for publication, and once possible I will upload the manuscript. There are many other code files and datasets pertaining to this work, but at the moment I have not formatted them sufficiently to be publically posted.
+sim0.py contains code for the simulation that matches the current ward process, while sim4.py contains the code for the simulation with the proposed physical colocation changes.
